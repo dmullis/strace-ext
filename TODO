@@ -36,3 +36,6 @@ test post after setting Lighthouse API hook
 test post-commit Lighthouse hook via API _and_email
 try to add comment to ticket [#1]
 test commit to try postbin.org Post-Receive URL
+try to get integrated issue tracker to do something.
+
+closes #1
