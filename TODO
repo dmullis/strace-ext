@@ -33,3 +33,4 @@ consider adding general purpose interpreter
 another test change
 test post after setting Lighthouse API hook
 ... or rather token.
+test post-commit Lighthouse hook via API _and_email
